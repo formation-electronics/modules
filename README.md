@@ -1,9 +1,6 @@
 # modules
 My eurorack modules! Designed so **ANYBODY** can build them! BOMS, Panel Designs, Schematics, PCBs, and more!
-
-# Current modules
-### In prototyping:
-1. Signals
+Inspired by Mutable Instruments design and naming
 
 
 # Guidelines for cloning
